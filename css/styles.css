@@ -1,0 +1,151 @@
+/*Author:DRISYA MB;
+Date:17/12/2021;*/
+*{
+	margin: 0;
+	padding: 0;
+}
+/*welcome start*/
+h1
+{
+	font-size: 40px;
+}
+.welcome
+{
+
+	background-color:#333;
+	text-align: center;
+	color: #fff;
+	padding: 100px;
+	font-size: 26px;
+	margin-bottom: 35px;
+
+}
+.welcome p
+{
+	font-size: 24px;
+	text-align: center;
+	padding: 15px;
+	margin: 15px;
+	margin-bottom: 50px;
+
+
+}
+.welcome a
+{
+	text-decoration:none;
+	color:#fff;
+	border: solid 2px #00f;
+	padding: 20px;
+	font-size: 24px;
+	border-radius: 10px;
+	padding-bottom: 23px;
+	margin-top:40px;
+}
+a:hover{
+	background-color: #00f;
+	border-radius: 5px;
+
+}
+/*welcome end*/
+/*container1*/
+.container1
+{
+	background-color: #fff;
+	text-align: center;
+	color: #000;
+	padding: 70px;
+}
+.container1 p
+{
+	font-size: 24px;
+	text-align: center;
+	padding: 15px;
+	margin: 10px;
+}
+/*container1 end*/
+/*container2 */
+.container2
+{
+	background-color: #333;
+	display: flex;
+	background: solid;
+
+}
+.subcontainer2
+{
+	border-style: bold;
+	color: #000;
+	background-color: #fff;
+	text-align: center;
+	border-style: solid #fff;
+	border-radius: 10px;
+	font-size: 15px;
+	padding: 30px;
+	margin: 45px;
+
+}
+.subcontainer2 h2
+{
+	font-size: 20px;
+}
+.subcontainer2 img
+{
+	width: 100%;
+	border-radius: 10px;
+}
+.subcontainer2 p
+  {
+  	font-size:18px;
+  }
+/*container2 end*/
+/*container3*/
+
+.container3
+{
+	background-color: #fff;
+	text-align: center;
+	color: #000;
+	padding: 70px;
+}
+.container3 p
+{
+	font-size: 24px;
+	text-align: center;
+	padding: 15px;
+	margin: 10px;
+}
+
+/*container3end*/
+/*footer*/
+.footer
+{
+	display: flex;
+	text-align: center;
+	font-size: 24px;
+	height: 350px;
+	
+}
+ .contact
+{
+	background-color: #0D6EFD;
+	text-align: center;
+	padding: 50px;
+}
+.about
+{
+	background-color: #333;
+	text-align: center;
+	padding: 50px;
+}
+.contact div
+{
+	padding: 30px;
+	text-align: center;
+}
+.about div
+{
+	padding: 30px;
+	text-align: center;
+}
+/*footer*/
+
